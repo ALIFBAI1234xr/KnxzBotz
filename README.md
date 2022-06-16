@@ -54,7 +54,7 @@ Click Run
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Adri158/slime-wabot/
+git clone https://github.com/ALIFBAI1234xr/KnxzBotz
 cd slime-wabot
 npm i
 npm update
