@@ -10,7 +10,7 @@
 <a href="https://github.com/Adri158/slime-wabot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Adri158/slime-wabot?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/Adri158/slime-wabot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Adri158/slime-wabot?label=Stars&color=yellow&style=flat-square"></a>
 <a href="https://github.com/Adri158/slime-wabot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Adri158/slime-wabot?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Adri158/slime-wabot/issues"><img title="Issues" src="https://img.shields.io/github/issues/Adri158/slime-wabot?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/ALIFBAI1234xr/KnxzBotz/issues"><img title="Issues" src="https://img.shields.io/github/issues/Adri158/slime-wabot?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/Adri158/slime-wabot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Adri158/slime-wabot?label=Issues&color=red&style=flat-square"></a>
 <a href="https://github.com/Adri158/slime-wabot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Adri158/slime-wabot?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/Adri158/slime-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Adri158/slime-wabot?label=PullRequest&color=red&style=flat-square"></a>
